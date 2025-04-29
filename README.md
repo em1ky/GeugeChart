@@ -1,1 +1,1 @@
-Este é um aplicativo Android que simula um jogo de progresso entre um jogador e o computador.
+O Jogo de Progresso é um aplicativo Android interativo e envolvente que oferece uma experiência de jogo única, onde um jogador compete contra o computador em uma série de desafios emocionantes. Com uma combinação de estratégia, habilidade e um toque de sorte, os usuários devem navegar por diferentes níveis de dificuldade enquanto tentam superar o oponente virtual.
